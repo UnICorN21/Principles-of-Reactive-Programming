@@ -1,0 +1,3 @@
+[0m[[0minfo[0m] [0m[32mWikipediaApiTest:[0m[0m
+[0m[[0minfo[0m] [0m[32m- WikipediaApi should make the stream valid using sanitized[0m[0m
+[0m[[0minfo[0m] [0m[32m- WikipediaApi should correctly use concatRecovered[0m[0m

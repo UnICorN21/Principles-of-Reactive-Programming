@@ -1,0 +1,16 @@
+compiel
+compile
+test
+test-only
+test-only kvstore.Step1_PrimarySpec
+test-only kvstore.Step2_SecondarySpec
+exit
+test-only kvstore.Step2_SecondarySpec
+test-only kvstore.Step3_SecondarySpec
+test-only kvstore.Step4_SecondaryPersistenceSpec
+test-only kvstore.Step5_PrimaryPersistenceSpec
+test-only kvstore.Step6
+test-only kvstore.Step6_NewSecondarySpec
+test
+submit framlog@gmail.com t4MjwybRBh
+exit

@@ -1,0 +1,9 @@
+#Successful Tests
+#Tue Jun 02 17:34:22 CST 2015
+kvstore.Step3_ReplicatorSpec=1433237660016
+kvstore.Step1_PrimarySpec=1433237659609
+kvstore.Step6_NewSecondarySpec=1433237659677
+kvstore.IntegrationSpec=1433237659545
+kvstore.Step2_SecondarySpec=1433237660004
+kvstore.Step4_SecondaryPersistenceSpec=1433237660877
+kvstore.Step5_PrimaryPersistenceSpec=1433237662840

@@ -1,0 +1,41 @@
+[0m[[0mdebug[0m] [0mThe kvstore.Replica$ source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	replicationAcks, kv, persistor, secondaries, replicators, replicatorAcks, persistAcks, expectedSeq.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mFiles invalidated by inheriting from (external) kvstore.Replica$: Set(); now invalidating by inheritance (internally).[0m
+[0m[[0mdebug[0m] [0mGetting direct dependencies of all sources transitively invalidated by inheritance.[0m
+[0m[[0mdebug[0m] [0mGetting sources that directly depend on (external) kvstore.Replica$.[0m
+[0m[[0mdebug[0m] [0mNone of the modified names appears in /Users/huxley/Documents/Coursera/Principles of Reactive Programming/assignments/kvstore/src/test/scala/kvstore/Step6_NewSecondarySpec.scala. This dependency is not being considered for invalidation.[0m
+[0m[[0mdebug[0m] [0mNone of the modified names appears in /Users/huxley/Documents/Coursera/Principles of Reactive Programming/assignments/kvstore/src/test/scala/kvstore/IntegrationSpec.scala. This dependency is not being considered for invalidation.[0m
+[0m[[0mdebug[0m] [0mNone of the modified names appears in /Users/huxley/Documents/Coursera/Principles of Reactive Programming/assignments/kvstore/src/test/scala/kvstore/Tools.scala. This dependency is not being considered for invalidation.[0m
+[0m[[0mdebug[0m] [0mNone of the modified names appears in /Users/huxley/Documents/Coursera/Principles of Reactive Programming/assignments/kvstore/src/test/scala/kvstore/Step4_SecondaryPersistenceSpec.scala. This dependency is not being considered for invalidation.[0m
+[0m[[0mdebug[0m] [0mNone of the modified names appears in /Users/huxley/Documents/Coursera/Principles of Reactive Programming/assignments/kvstore/src/test/scala/kvstore/Step1_PrimarySpec.scala. This dependency is not being considered for invalidation.[0m
+[0m[[0mdebug[0m] [0mNone of the modified names appears in /Users/huxley/Documents/Coursera/Principles of Reactive Programming/assignments/kvstore/src/test/scala/kvstore/Step5_PrimaryPersistenceSpec.scala. This dependency is not being considered for invalidation.[0m
+[0m[[0mdebug[0m] [0mNone of the modified names appears in /Users/huxley/Documents/Coursera/Principles of Reactive Programming/assignments/kvstore/src/test/scala/kvstore/Step2_SecondarySpec.scala. This dependency is not being considered for invalidation.[0m
+[0m[[0mdebug[0m] [0mThe kvstore.Replicator$ source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	acks.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mFiles invalidated by inheriting from (external) kvstore.Replicator$: Set(); now invalidating by inheritance (internally).[0m
+[0m[[0mdebug[0m] [0mGetting direct dependencies of all sources transitively invalidated by inheritance.[0m
+[0m[[0mdebug[0m] [0mGetting sources that directly depend on (external) kvstore.Replicator$.[0m
+[0m[[0mdebug[0m] [0mNone of the modified names appears in /Users/huxley/Documents/Coursera/Principles of Reactive Programming/assignments/kvstore/src/test/scala/kvstore/Step6_NewSecondarySpec.scala. This dependency is not being considered for invalidation.[0m
+[0m[[0mdebug[0m] [0mNone of the modified names appears in /Users/huxley/Documents/Coursera/Principles of Reactive Programming/assignments/kvstore/src/test/scala/kvstore/IntegrationSpec.scala. This dependency is not being considered for invalidation.[0m
+[0m[[0mdebug[0m] [0mNone of the modified names appears in /Users/huxley/Documents/Coursera/Principles of Reactive Programming/assignments/kvstore/src/test/scala/kvstore/Step4_SecondaryPersistenceSpec.scala. This dependency is not being considered for invalidation.[0m
+[0m[[0mdebug[0m] [0mNone of the modified names appears in /Users/huxley/Documents/Coursera/Principles of Reactive Programming/assignments/kvstore/src/test/scala/kvstore/Step3_ReplicatorSpec.scala. This dependency is not being considered for invalidation.[0m
+[0m[[0mdebug[0m] [0mNone of the modified names appears in /Users/huxley/Documents/Coursera/Principles of Reactive Programming/assignments/kvstore/src/test/scala/kvstore/Step1_PrimarySpec.scala. This dependency is not being considered for invalidation.[0m
+[0m[[0mdebug[0m] [0mNone of the modified names appears in /Users/huxley/Documents/Coursera/Principles of Reactive Programming/assignments/kvstore/src/test/scala/kvstore/Step5_PrimaryPersistenceSpec.scala. This dependency is not being considered for invalidation.[0m
+[0m[[0mdebug[0m] [0mNone of the modified names appears in /Users/huxley/Documents/Coursera/Principles of Reactive Programming/assignments/kvstore/src/test/scala/kvstore/Step2_SecondarySpec.scala. This dependency is not being considered for invalidation.[0m
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mInitial source changes: [0m
+[0m[[0mdebug[0m] [0m	removed:Set()[0m
+[0m[[0mdebug[0m] [0m	added: Set()[0m
+[0m[[0mdebug[0m] [0m	modified: Set()[0m
+[0m[[0mdebug[0m] [0mRemoved products: Set()[0m
+[0m[[0mdebug[0m] [0mExternal API changes: API Changes: Set(NamesChange(kvstore.Replica$,ModifiedNames(regularNames = replicationAcks, kv, persistor, secondaries, replicators, replicatorAcks, persistAcks, expectedSeq, implicitNames = )), NamesChange(kvstore.Replicator$,ModifiedNames(regularNames = acks, implicitNames = )))[0m
+[0m[[0mdebug[0m] [0mModified binary dependencies: Set()[0m
+[0m[[0mdebug[0m] [0mInitial directly invalidated sources: Set()[0m
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mSources indirectly invalidated by:[0m
+[0m[[0mdebug[0m] [0m	product: Set()[0m
+[0m[[0mdebug[0m] [0m	binary dep: Set()[0m
+[0m[[0mdebug[0m] [0m	external source: Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set()[0m
